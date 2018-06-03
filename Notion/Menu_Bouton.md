@@ -11,6 +11,8 @@ Produit par
 * [Bouton Objet](#bouton-objet "Bouton Objet") 
 * [Bouton Contrainte](#bouton-contrainte "Bouton Contrainte") 
 * [Bouton Donnée](#bouton-donnée "Bouton Donnée") 
+* [Bouton Texture](#bouton-texture "Bouton Texture") 
+* [Bouton Physique](#bouton-physique "Bouton Physique") 
 
 ### Bouton Rendu
 
@@ -39,4 +41,12 @@ Produit par
 ### Bouton Donnée
 
 ![Image](https://raw.githubusercontent.com/gkesse/ReadyBlender/master/Notion/img/Menu_Bouton_Donnee.png)
+
+### Bouton Texture
+
+![Image](https://raw.githubusercontent.com/gkesse/ReadyBlender/master/Notion/img/Menu_Bouton_Texture.png)
+
+### Bouton Physique
+
+![Image](https://raw.githubusercontent.com/gkesse/ReadyBlender/master/Notion/img/Menu_Bouton_Physique.png)
 

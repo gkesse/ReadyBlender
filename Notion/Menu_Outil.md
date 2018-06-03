@@ -1,6 +1,6 @@
 # Menu des outils
 
-Le but de cette opération est de vous apprendre à vous familiariser avec le menu des outils.  
+Le but de cette opération est de vous apprendre à afficher ou masquer  avec le menu des outils.  
 Produit par 
 [Gérard KESSE](https://github.com/gkesse/ "https://github.com/gkesse").
 

@@ -1,6 +1,6 @@
 # Créer un nouveau fichier
 
-Le but de cette opération est de vous apprendre à créer un nouveau fichier.  
+Le but de cette section est de vous apprendre à créer un nouveau fichier.  
 Produit par 
 [Gérard KESSE](https://github.com/gkesse/ "https://github.com/gkesse").
 

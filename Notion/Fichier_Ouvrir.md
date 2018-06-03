@@ -1,4 +1,4 @@
-# Ouvrir un fichier
+# Ouvrir un nouveau fichier
 
 Le but de cette opération est de vous apprendre à ouvrir un nouveau fichier.  
 Produit par 

@@ -1,3 +1,3 @@
 # Splashscreen
 
-* Cliquer Vide
+* Cliquer dans le Vide

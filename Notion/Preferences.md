@@ -1,4 +1,4 @@
-# Se familiariser avec le menu des préférences
+# Menu des préférences
 
 Le but de cette opération est de vous apprendre à vous familiariser avec le menu des préférences.  
 Produit par 

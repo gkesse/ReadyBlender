@@ -1,4 +1,4 @@
-# Se familiariser avec le menu des outils
+# Menu des outils
 
 Le but de cette opération est de vous apprendre à vous familiariser avec le menu des outils.  
 Produit par 
@@ -13,10 +13,10 @@ Produit par
 * [Menu Fichier](#menu-fichier "Menu Fichier") 
 * [Menu Système](#menu-système "Menu Système") 
 
-### Menu des outils
+### Menu Outils
 
 ![Image](https://raw.githubusercontent.com/gkesse/ReadyBlender/master/Notion/img/Menu_Outil.png)
 
-### Afficher ou Masquer le menu des outils
+### Afficher ou masquer le menu des outils
 
 ![Image](https://raw.githubusercontent.com/gkesse/ReadyBlender/master/Notion/img/Menu_Outil2.png)

@@ -1,6 +1,6 @@
 # Ouvrir un nouveau projet
 
-Le but de cette opération est de vous apprendre à ouvrir un nouveau projet.  
+Le but de cette section est de vous apprendre à ouvrir un nouveau projet.  
 Produit par 
 [Gérard KESSE](https://github.com/gkesse/ "https://github.com/gkesse").
 

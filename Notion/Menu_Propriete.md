@@ -1,6 +1,6 @@
 # Menu des propriétés
 
-Le but de cette opération est de vous apprendre à afficher ou masquer  avec le menu des propriétés.  
+Le but de cette section est de vous apprendre à afficher ou masquer  avec le menu des propriétés.  
 Produit par 
 [Gérard KESSE](https://github.com/gkesse/ "https://github.com/gkesse").
 

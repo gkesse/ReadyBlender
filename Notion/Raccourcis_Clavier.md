@@ -13,3 +13,4 @@ Produit par
 * R : Rotation de l'objet
 * S : Scale ou Redimensionnement de l'objet
 * Shift + Axe : Déplacement de l'objet suivant 2 axes
+* G : Déplacement de l'objet dans l'espace

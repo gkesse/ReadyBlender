@@ -7,9 +7,6 @@ Produit par
 
 # Sommaire
 * [Téléchargement](#téléchargement "Téléchargement") 
-* [Image de Fond](#image-de-fond "Image de Fond") 
-* [Formes Géométriques](#formes-géométriques "Formes Géométriques") 
-* [Projets](#projets "Projets") 
 
 # Téléchargement
 * https://www.blender.org/

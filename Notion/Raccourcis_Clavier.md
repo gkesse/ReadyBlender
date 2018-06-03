@@ -6,5 +6,10 @@ Produit par
 
 ![Image](https://raw.githubusercontent.com/gkesse/ReadyBlender/master/Notion/img/Raccourcis_Clavier.png)
 
+### Autres Raccourcis Clavier
+
 * 5 : Vue en Perspective
 * 5 : Vue Orthogonale
+* R : Rotation de l'objet
+* S : Scale ou Redimensionnement de l'objet
+* Shift + Axe : Déplacement de l'objet suivant 2 axes

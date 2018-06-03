@@ -8,9 +8,9 @@ Produit par
 * [Bouton Rendu Couche](#bouton-edition "Bouton Rendu Couche") 
 * [Bouton Scène](#bouton-scène "Bouton Scène") 
 * [Bouton Monde](#bouton-monde "Bouton Monde") 
-* [Bouton Thèmes](#bouton-thèmes "Bouton Thèmes") 
-* [Bouton Fichier](#bouton-fichier "Bouton Fichier") 
-* [Bouton Système](#bouton-système "Bouton Système") 
+* [Bouton Objet](#bouton-objet "Bouton Objet") 
+* [Bouton Contrainte](#bouton-contrainte "Bouton Contrainte") 
+* [Bouton Donnée](#bouton-donnée "Bouton Donnée") 
 
 ### Bouton Rendu
 
@@ -28,15 +28,15 @@ Produit par
 
 ![Image](https://raw.githubusercontent.com/gkesse/ReadyBlender/master/Notion/img/Menu_Bouton_Monde.png)
 
-### Bouton Rendu
+### Bouton Objet
 
-![Image](https://raw.githubusercontent.com/gkesse/ReadyBlender/master/Notion/img/Menu_Bouton_Rendu.png)
+![Image](https://raw.githubusercontent.com/gkesse/ReadyBlender/master/Notion/img/Menu_Bouton_Objet.png)
 
-### Bouton Rendu
+### Bouton Contrainte
 
-![Image](https://raw.githubusercontent.com/gkesse/ReadyBlender/master/Notion/img/Menu_Bouton_Rendu.png)
+![Image](https://raw.githubusercontent.com/gkesse/ReadyBlender/master/Notion/img/Menu_Bouton_Contrainte.png)
 
-### Bouton Rendu
+### Bouton Donnée
 
-![Image](https://raw.githubusercontent.com/gkesse/ReadyBlender/master/Notion/img/Menu_Bouton_Rendu.png)
+![Image](https://raw.githubusercontent.com/gkesse/ReadyBlender/master/Notion/img/Menu_Bouton_Donnee.png)
 

@@ -22,3 +22,4 @@ Produit par
 * C : Sélection circulaire de l'objet
 * Molette + C : Désélectionner l'objet
 * E : Extruder l'objet
+* Z : Mode d'affichage solide ou wireframe

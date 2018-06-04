@@ -9,10 +9,8 @@ Produit par
 * [Raccourcis ](#raccourcis- "Raccourcis ") 
 ---
 ### Raccourcis Clavier Global
-
-![Image](https://raw.githubusercontent.com/gkesse/ReadyBlender/master/Notion/img/Raccourcis_Clavier_Global.png)
+![Image](https://raw.githubusercontent.com/gkesse/ReadyBlender/master/Notion/img/Raccourcis_Clavier_Global.png)  
 ---
 ### Raccourcis Clavier Cacher Afficher
-
-![Image](https://raw.githubusercontent.com/gkesse/ReadyBlender/master/Notion/img/Raccourcis_Clavier_Cacher_Afficher.png)
+![Image](https://raw.githubusercontent.com/gkesse/ReadyBlender/master/Notion/img/Raccourcis_Clavier_Cacher_Afficher.png)  
 ---

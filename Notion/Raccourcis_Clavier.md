@@ -4,22 +4,14 @@ Le but de cette section est de vous apprendre à vous familiariser avec les Racc
 Produit par 
 [Gérard KESSE](https://github.com/gkesse/ "https://github.com/gkesse").
 
-![Image](https://raw.githubusercontent.com/gkesse/ReadyBlender/master/Notion/img/Raccourcis_Clavier.png)
+* [Raccourcis Clavier Global](#ouvrir-le-menu-des-préférences "Raccourcis Clavier Global") 
+* [Raccourcis Clavier Cacher Afficher](#menu-interface "Raccourcis Clavier Cacher Afficher") 
+* [](# "") 
 
-### Autres Raccourcis Clavier
+### Raccourcis Clavier Global
 
-* 5 : Vue en Perspective
-* 5 : Vue Orthogonale
-* R : Rotation de l'objet
-* S : Scale ou Redimensionnement de l'objet
-* Shift + Axe : Déplacement de l'objet suivant 2 axes
-* G : Déplacement de l'objet dans l'espace
-* G + X : Déplacement de l'objet dans l'espace suivant l'axe X
-* Echap : Retour arrière
-* Ctrl + Scale : Scaler avec 1 chiffre après la virgule
-* A : Désélectionner l'objet
-* B : Sélection rectangulaire de l'objet
-* C : Sélection circulaire de l'objet
-* Molette + C : Désélectionner l'objet
-* E : Extruder l'objet
-* Z : Mode d'affichage solide ou wireframe
+![Image](https://raw.githubusercontent.com/gkesse/ReadyBlender/master/Notion/img/Raccourcis_Clavier_Global.png)
+
+### Raccourcis Clavier Cacher Afficher
+
+![Image](https://raw.githubusercontent.com/gkesse/ReadyBlender/master/Notion/img/Raccourcis_Clavier_Cacher_Afficher.png)

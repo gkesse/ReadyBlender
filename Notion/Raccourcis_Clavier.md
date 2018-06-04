@@ -9,9 +9,10 @@ Produit par
 * [Raccourcis Panneaux](#raccourcis-panneaux "Raccourcis Panneaux") 
 * [Raccourcis Navigation](#raccourcis-navigation "Raccourcis Navigation") 
 * [Raccourcis Vues](#raccourcis-vues "Raccourcis Vues") 
-* [Raccourcis ](#raccourcis- "Raccourcis ") 
-* [Raccourcis ](#raccourcis- "Raccourcis ") 
-* [Raccourcis ](#raccourcis- "Raccourcis ") 
+* [Raccourcis Sélection](#raccourcis-sélection "Raccourcis Sélection") 
+* [Raccourcis Action](#raccourcis-action "Raccourcis Action") 
+* [Raccourcis Séparation](#raccourcis-séparation "Raccourcis Séparation") 
+* [Raccourcis Outils](#raccourcis-outils "Raccourcis Outils") 
 
 ### Raccourcis Clavier Global
 ---
@@ -28,12 +29,23 @@ Produit par
 ### Raccourcis Clavier Navigation
 ---
 ![Image](https://raw.githubusercontent.com/gkesse/ReadyBlender/master/Notion/img/Raccourcis_Clavier_Navigation.png)  
----
+
 ### Raccourcis Clavier Vues
-
-![Image](https://raw.githubusercontent.com/gkesse/ReadyBlender/master/Notion/img/Raccourcis_Clavier_Vues.png)  
 ---
-### Raccourcis Clavier Cacher Afficher
+![Image](https://raw.githubusercontent.com/gkesse/ReadyBlender/master/Notion/img/Raccourcis_Clavier_Vues.png)  
 
-![Image](https://raw.githubusercontent.com/gkesse/ReadyBlender/master/Notion/img/Raccourcis_Clavier_Cacher_Afficher.png)  
+### Raccourcis Clavier Sélection
+---
+![Image](https://raw.githubusercontent.com/gkesse/ReadyBlender/master/Notion/img/Raccourcis_Clavier_Selection.png)  
 
+### Raccourcis Clavier Action
+---
+![Image](https://raw.githubusercontent.com/gkesse/ReadyBlender/master/Notion/img/Raccourcis_Clavier_Action.png)  
+
+### Raccourcis Clavier Séparation
+---
+![Image](https://raw.githubusercontent.com/gkesse/ReadyBlender/master/Notion/img/Raccourcis_Clavier_Separation.png)  
+
+### Raccourcis Clavier Outils
+---
+![Image](https://raw.githubusercontent.com/gkesse/ReadyBlender/master/Notion/img/Raccourcis_Clavier_Outils.png)  

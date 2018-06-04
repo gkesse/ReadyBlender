@@ -15,3 +15,5 @@ Produit par
 * Shift + Axe : Déplacement de l'objet suivant 2 axes
 * G : Déplacement de l'objet dans l'espace
 * G + X : Déplacement de l'objet dans l'espace suivant l'axe X
+* Echap : Retour arrière
+* Ctrl + Scale : Scaler avec 1 chiffre après la virgule

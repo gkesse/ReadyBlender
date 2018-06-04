@@ -4,8 +4,8 @@ Le but de cette section est de vous apprendre à vous familiariser avec les Racc
 Produit par 
 [Gérard KESSE](https://github.com/gkesse/ "https://github.com/gkesse").
 
-* [Raccourcis Clavier Global](#ouvrir-le-menu-des-préférences "Raccourcis Clavier Global") 
-* [Raccourcis Clavier Cacher Afficher](#menu-interface "Raccourcis Clavier Cacher Afficher") 
+* [Raccourcis Clavier Global](#raccourcis-clavier-global "Raccourcis Clavier Global") 
+* [Raccourcis Clavier Cacher Afficher](#raccourcis-clavier-cacher-afficher "Raccourcis Clavier Cacher Afficher") 
 * [](# "") 
 ---
 ### Raccourcis Clavier Global

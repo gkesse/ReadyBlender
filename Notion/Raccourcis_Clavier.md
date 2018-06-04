@@ -17,3 +17,8 @@ Produit par
 * G + X : Déplacement de l'objet dans l'espace suivant l'axe X
 * Echap : Retour arrière
 * Ctrl + Scale : Scaler avec 1 chiffre après la virgule
+* A : Désélectionner l'objet
+* B : Sélection rectangulaire de l'objet
+* C : Sélection circulaire de l'objet
+* Molette + C : Désélectionner l'objet
+* E : Extruder l'objet
